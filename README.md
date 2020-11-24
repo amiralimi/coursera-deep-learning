@@ -14,4 +14,4 @@ This is my solution to Deep Learning Specialization course on Coursera.
   1. [Week 1: Initialization](https://github.com/amiralimi/coursera-deep-learning/blob/master/2-%20Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week%201/Initialization/Initialization.ipynb)
   2. [Week 1: Regularization](https://github.com/amiralimi/coursera-deep-learning/blob/master/2-%20Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week%201/Regularization/Regularization_v2a.ipynb)
   3. [Week 1: Gradient Checking](https://github.com/amiralimi/coursera-deep-learning/blob/master/2-%20Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week%201/Gradient%20Checking/Gradient%20Checking%20v1.ipynb)
- 
+  4. [Week 2: Optimization](https://github.com/amiralimi/coursera-deep-learning/blob/master/2-%20Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week%202/Optimization/Optimization_methods_v1b.ipynb)
