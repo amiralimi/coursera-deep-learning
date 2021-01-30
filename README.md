@@ -19,3 +19,6 @@ This is my solution to Deep Learning Specialization course on Coursera.
   
 ### Convolutional Neural Networks
   1. [Week 1: Convolutional Model: step by step](https://github.com/amiralimi/coursera-deep-learning/blob/master/4-%20Convolutional%20Neural%20Networks/Week%201/Convolutional%20Model%20step%20by%20step/Convolution_model_Step_by_Step_v2a.ipynb)
+  2. [Week 1: Convolutional Model: Application](https://github.com/amiralimi/coursera-deep-learning/blob/master/4-%20Convolutional%20Neural%20Networks/Week%201/Convolutional%20Model%20Application/Convolution_model_Application_v1a.ipynb)
+  3. [Week 2: Residual Networks](https://github.com/amiralimi/coursera-deep-learning/blob/master/4-%20Convolutional%20Neural%20Networks/Week%202/Residual%20Networks/Residual_Networks_v2a.ipynb)
+  4. [Week 3: Car detection with YOLO](https://github.com/amiralimi/coursera-deep-learning/blob/master/4-%20Convolutional%20Neural%20Networks/Week%203/Car%20detection%20with%20YOLO/Autonomous_driving_application_Car_detection_v3a.ipynb)
