@@ -23,3 +23,4 @@ This is my solution to Deep Learning Specialization course on Coursera.
   3. [Week 2: Residual Networks](https://github.com/amiralimi/coursera-deep-learning/blob/master/4-%20Convolutional%20Neural%20Networks/Week%202/Residual%20Networks/Residual_Networks_v2a.ipynb)
   4. [Week 3: Car detection with YOLO](https://github.com/amiralimi/coursera-deep-learning/blob/master/4-%20Convolutional%20Neural%20Networks/Week%203/Car%20detection%20with%20YOLO/Autonomous_driving_application_Car_detection_v3a.ipynb)
   5. [Week 4: Art generation with Neural Style Transfer](https://github.com/amiralimi/coursera-deep-learning/blob/master/4-%20Convolutional%20Neural%20Networks/Week%204/Art%20generation%20with%20Neural%20Style%20Transfer/Art_Generation_with_Neural_Style_Transfer_v3a.ipynb)
+  6. [Week 4: Face Recognition](https://github.com/amiralimi/coursera-deep-learning/blob/master/4-%20Convolutional%20Neural%20Networks/Week%204/Face%20Recognition/Face_Recognition_v3a.ipynb)
