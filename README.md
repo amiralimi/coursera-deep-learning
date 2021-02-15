@@ -28,3 +28,4 @@ This is my solution to Deep Learning Specialization course on Coursera.
 ### Sequence Models
   1. [Week 1: Building a recurrent neural network: step by step](https://github.com/amiralimi/coursera-deep-learning/blob/master/5%20-%20Sequence%20Models/Week%201/Building%20a%20recurrent%20neural%20network%20-%20step%20by%20step/Building_a_Recurrent_Neural_Network_Step_by_Step_v3b.ipynb)
   2. [Week 1: Dinosaur Island - Character-Level Language Modeling](https://github.com/amiralimi/coursera-deep-learning/blob/master/5%20-%20Sequence%20Models/Week%201/Dinosaur%20Island%20-%20Character-Level%20Language%20Modeling/Dinosaurus_Island_Character_level_language_model_final_v3b.ipynb)
+  3. [Week 1: Jazz improvisation with LSTM](https://github.com/amiralimi/coursera-deep-learning/blob/master/5%20-%20Sequence%20Models/Week%201/Jazz%20improvisation%20with%20LSTM/Improvise_a_Jazz_Solo_with_an_LSTM_Network_v3a.ipynb)
